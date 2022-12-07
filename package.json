@@ -11,7 +11,7 @@
     "aws-sdk": "^2.650.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "serverless": "^1.67.0",
+    "serverless": "^3.25.1",
     "serverless-express": "^2.0.11",
     "source-map-support": "^0.5.16"
   },
